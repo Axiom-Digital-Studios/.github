@@ -21,8 +21,8 @@
   <tr>
     <td align="center" width="33%">
       <br>
-      <h1>10+</h1>
-      <b>Private Deployments</b><br>
+      <h1>100+</h1>
+      <b>Website Works</b><br>
       <sub>Secure Web & App Ecosystems</sub>
       <br><br>
     </td>
@@ -35,7 +35,7 @@
     </td>
     <td align="center" width="33%">
       <br>
-      <h1>50+</h1>
+      <h1>1000+</h1>
       <b>Cinematic Assets</b><br>
       <sub>High-Retention Reels & Media</sub>
       <br><br>
