@@ -1,56 +1,69 @@
 <div align="center">
-  <a href="https://axiomwebpage.netlify.app">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Axiom%20Digital&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Axiom Digital Banner" />
-  </a>
   
-  <br><br>
+  # 𝗔 𝗫 𝗜 𝗢 𝗠 &nbsp; 𝗗 𝗜 𝗚 𝗜 𝗧 𝗔 𝗟
+  **P R E M I E R &nbsp; G R O W T H &nbsp; & &nbsp; D E V E L O P M E N T &nbsp; S T U D I O**
+  
+  <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=High-Performance+Web+Architecture;Bespoke+Digital+Branding;Enterprise-Grade+Solutions;Strictly+Confidential+Client+Deployments" alt="Typing Animation" />
+  [![Website](https://img.shields.io/badge/Official_Website-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://axiomwebpage.netlify.app)
+  [![Phone](https://img.shields.io/badge/Direct_Line-(+91)_8686_363_671-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918686363671)
+  [![Instagram](https://img.shields.io/badge/Portfolio-@Axiom__Digital-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/axiom.digital01)
 
-  <br><br>
-
-  <a href="https://axiomwebpage.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-axiomwebpage.netlify.app-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="tel:+918686363671">
-    <img src="https://img.shields.io/badge/Phone-+91%208686363671-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-  <a href="https://instagram.com/axiom.digital01" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@Axiom_Digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <br>
+  
+  > *"We don't just build websites. We engineer high-conversion digital ecosystems and direct cinematic brand experiences."*
+  
 </div>
 
 <br><br>
 
-## ✦ The Studio
-> **Axiom Digital** is a specialized development studio focused on delivering bespoke, high-conversion web ecosystems for the hospitality, service, and digital commerce industries.
-
-We operate under strict **Non-Disclosure Agreements (NDAs)** to protect our clients' proprietary data, architectural strategies, and brand assets. As a result, our primary enterprise deployments and client repositories are maintained in heavily secured, private environments.
+### ✦ The Axiom Standard
+We are an elite, multi-disciplinary development and content studio. Operating under strict confidentiality for our enterprise and hospitality clients, our primary deployments are secured in private environments. We combine uncompromising web architecture with broadcast-quality video production to scale modern brands.
 
 <br>
 
-## ✦ Core Competencies
-We engineer digital experiences prioritizing absolute performance, semantic structure, and seamless user interaction.
+### ✦ Studio Divisions
 
-| ⚡ Engineering | 🎨 Design & Brand | 🛡️ Infrastructure |
-| :--- | :--- | :--- |
-| **Custom Architecture:** Fluid, responsive interfaces built without reliance on bloated site-builders. | **Digital Branding:** Cohesive visual identities translated seamlessly into interactive web environments. | **Secure Deployment:** Robust, isolated hosting pipelines for enterprise-grade reliability. |
-| **Performance Mastery:** Sub-second load times, meticulous asset delivery, and rigorous technical SEO. | **UI/UX Strategy:** Data-driven user journeys tailored specifically for conversion and retention. | **Maintenance Operations:** Continuous integration and proactive, private codebase management. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Advanced Web Architecture</h3>
+      We build bespoke, fluid web environments from the ground up. No bloated site-builders—just pure, optimized code designed for sub-second rendering and absolute reliability.
+      <br><br>
+      <ul>
+        <li><b>Bespoke Interfaces:</b> Tailored web apps for any industry.</li>
+        <li><b>Conversion Engineering:</b> UI/UX designed to drive action.</li>
+        <li><b>Performance SEO:</b> Lightning-fast, scalable infrastructure.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Cinematic Post-Production</h3>
+      A website is only as strong as its media. Our dedicated video division handles high-fidelity editing, motion graphics, and social reel creation to dominate digital algorithms.
+      <br><br>
+      <ul>
+        <li><b>High-Retention Reels:</b> Short-form content engineered to scale.</li>
+        <li><b>Brand Storytelling:</b> Professional-grade color grading and pacing.</li>
+        <li><b>Visual Identity:</b> Seamless integration of video into web platforms.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## ✦ Technology Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+### ✦ Production Stack
+
+Our infrastructure demands the best tools available. We utilize a highly refined, dependency-minimized stack for web, and professional post-production pipelines for media.
+
+**Web Engineering & Design**
+<code>Semantic HTML5</code> • <code>Advanced CSS3</code> • <code>Modern JavaScript (ES6+)</code> • <code>Figma</code>
+
+**Cinematic & Content Pipeline**
+<code>DaVinci Resolve</code> • <code>CapCut Pro</code> • <code>Advanced Audio Mastering</code>
 
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <p><i>Strictly Confidential. Best or Nothing.</i></p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" height="3">
 </div>
