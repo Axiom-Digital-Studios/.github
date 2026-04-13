@@ -11,6 +11,38 @@
 
 </div>
 
+<br><br>
+
+<div align="center">
+  <h3 style="letter-spacing: 2px;">✦ STUDIO IMPACT ✦</h3>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <br>
+      <h1>10+</h1>
+      <b>Private Deployments</b><br>
+      <sub>Secure Web & App Ecosystems</sub>
+      <br><br>
+    </td>
+    <td align="center" width="34%">
+      <br>
+      <h1>100%</h1>
+      <b>Confidentiality</b><br>
+      <sub>Strict NDA Compliance</sub>
+      <br><br>
+    </td>
+    <td align="center" width="33%">
+      <br>
+      <h1>50+</h1>
+      <b>Cinematic Assets</b><br>
+      <sub>High-Retention Reels & Media</sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <table align="center" width="100%">
