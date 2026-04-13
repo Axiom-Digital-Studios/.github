@@ -15,7 +15,7 @@
   <a href="tel:+918686363671">
     <img src="https://img.shields.io/badge/Phone-+91%208686363671-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
-  <a href="https://instagram.com/your_instagram_handle" target="_blank">
+  <a href="https://instagram.com/axiom.digital01" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@Axiom_Digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
