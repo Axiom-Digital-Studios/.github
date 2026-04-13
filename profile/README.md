@@ -1,10 +1,13 @@
 <div align="center">
   
+  <br>
   <h1 align="center">𝗔 𝗫 𝗜 𝗢 𝗠 &nbsp; 𝗗 𝗜 𝗚 𝗜 𝗧 𝗔 𝗟</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1500&color=AAAAAA&center=true&vCenter=true&width=600&height=40&lines=High-Performance+Web+Architecture;Viral+Social+Brand+Scaling;Cinematic+Post-Production;Strictly+Confidential+Deployments" alt="Axiom Digital Services">
+  <p align="center" style="font-size: 13px; color: #AAAAAA; letter-spacing: 2px;">
+    <b>ELITE WEB ENGINEERING &nbsp;•&nbsp; VIRAL SOCIAL ARCHITECTURE &nbsp;•&nbsp; CINEMATIC PRODUCTION</b>
+  </p>
   
-  <br><br>
+  <br>
 
   <a href="https://axiomwebpage.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Official_Website-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Website"/>
@@ -21,25 +24,25 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center" style="padding: 25px; border: 1px solid #333333; border-radius: 12px;">
-      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/source-code.png" width="45" style="margin-bottom: 15px;" alt="Web Icon">
+    <td width="50%" align="center" style="padding: 30px 20px; border: 1px solid #333333; border-radius: 12px;">
+      <h2 style="margin-bottom: 10px; color: #FFFFFF; font-family: monospace;">⟨/⟩</h2>
       <h3 style="margin:0;">Web Architecture</h3>
       <p style="color: #AAAAAA; font-size: 14px;">Bespoke, high-conversion interfaces. Sub-second load times and rigorous SEO structuring. We engineer sites that don't just exist—they dominate.</p>
     </td>
-    <td width="50%" align="center" style="padding: 25px; border: 1px solid #333333; border-radius: 12px;">
-      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/bullhorn.png" width="45" style="margin-bottom: 15px;" alt="Social Icon">
+    <td width="50%" align="center" style="padding: 30px 20px; border: 1px solid #333333; border-radius: 12px;">
+      <h2 style="margin-bottom: 10px; color: #FFFFFF; font-family: monospace;">@</h2>
       <h3 style="margin:0;">Social Brand Scaling</h3>
       <p style="color: #AAAAAA; font-size: 14px;">End-to-end digital brand management. We design data-driven social architectures that capture attention, build authority, and drive direct traffic.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" style="padding: 25px; border: 1px solid #333333; border-radius: 12px;">
-      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/video-editing.png" width="45" style="margin-bottom: 15px;" alt="Video Icon">
+    <td width="50%" align="center" style="padding: 30px 20px; border: 1px solid #333333; border-radius: 12px;">
+      <h2 style="margin-bottom: 10px; color: #FFFFFF; font-family: monospace;">[ ► ]</h2>
       <h3 style="margin:0;">Cinematic Production</h3>
       <p style="color: #AAAAAA; font-size: 14px;">Broadcast-quality post-production. From high-retention short-form reels to cinematic brand storytelling, engineered specifically for modern algorithms.</p>
     </td>
-    <td width="50%" align="center" style="padding: 25px; border: 1px solid #333333; border-radius: 12px;">
-      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/lock-2.png" width="45" style="margin-bottom: 15px;" alt="Security Icon">
+    <td width="50%" align="center" style="padding: 30px 20px; border: 1px solid #333333; border-radius: 12px;">
+      <h2 style="margin-bottom: 10px; color: #FFFFFF; font-family: monospace;">✱</h2>
       <h3 style="margin:0;">Confidential Enterprise</h3>
       <p style="color: #AAAAAA; font-size: 14px;">Operating strictly under NDAs. Your code, your data, and your media are maintained in isolated, highly secure private environments.</p>
     </td>
