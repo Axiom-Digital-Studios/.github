@@ -1,37 +1,56 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/000000/FFFFFF?text=AXIOM+DIGITAL" alt="Axiom Digital Banner">
+  <a href="https://axiomwebpage.netlify.app">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Axiom%20Digital&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Axiom Digital Banner" />
+  </a>
   
-  <br>
-  
-  # Axiom Digital
-  **High-Performance Digital Branding & Web Architecture**
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=High-Performance+Web+Architecture;Bespoke+Digital+Branding;Enterprise-Grade+Solutions;Strictly+Confidential+Client+Deployments" alt="Typing Animation" />
+
+  <br><br>
+
+  <a href="https://axiomwebpage.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-axiomwebpage.netlify.app-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="tel:+918686363671">
+    <img src="https://img.shields.io/badge/Phone-+91%208686363671-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://instagram.com/your_instagram_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@Axiom_Digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
----
+<br><br>
 
-### 🛡️ About Us
-Axiom Digital is a specialized development studio focused on delivering bespoke, high-conversion web ecosystems for the hospitality, service, and digital commerce industries. 
+## ✦ The Studio
+> **Axiom Digital** is a specialized development studio focused on delivering bespoke, high-conversion web ecosystems for the hospitality, service, and digital commerce industries.
 
-We operate under strict Non-Disclosure Agreements (NDAs) to protect our clients' proprietary data, architectural strategies, and brand assets. As a result, our primary enterprise deployments and client repositories are maintained in heavily secured, private environments.
+We operate under strict **Non-Disclosure Agreements (NDAs)** to protect our clients' proprietary data, architectural strategies, and brand assets. As a result, our primary enterprise deployments and client repositories are maintained in heavily secured, private environments.
 
-### ⚡ Core Competencies
+<br>
+
+## ✦ Core Competencies
 We engineer digital experiences prioritizing absolute performance, semantic structure, and seamless user interaction.
 
-* **Custom Web Architecture:** Fluid, responsive interfaces built without reliance on bloated site-builders.
-* **Performance Optimization:** Sub-second load times, meticulous asset delivery, and rigorous SEO structuring.
-* **Digital Branding:** Cohesive visual identities translated seamlessly into interactive web environments.
-* **Secure Deployment:** Robust, isolated hosting pipelines for enterprise-grade reliability.
+| ⚡ Engineering | 🎨 Design & Brand | 🛡️ Infrastructure |
+| :--- | :--- | :--- |
+| **Custom Architecture:** Fluid, responsive interfaces built without reliance on bloated site-builders. | **Digital Branding:** Cohesive visual identities translated seamlessly into interactive web environments. | **Secure Deployment:** Robust, isolated hosting pipelines for enterprise-grade reliability. |
+| **Performance Mastery:** Sub-second load times, meticulous asset delivery, and rigorous technical SEO. | **UI/UX Strategy:** Data-driven user journeys tailored specifically for conversion and retention. | **Maintenance Operations:** Continuous integration and proactive, private codebase management. |
 
-### 🛠️ Technology Stack
-Our infrastructure relies on clean, dependency-minimized technologies to ensure maximum speed and maintainability:
-* **Frontend Structure:** Semantic HTML5, Advanced CSS3 / Modular CSS architecture.
-* **Interaction & Logic:** Vanilla JavaScript (ES6+), optimized DOM manipulation.
-* **Deployment & CI/CD:** Automated build pipelines, Edge-network content delivery.
+<br>
 
----
+## ✦ Technology Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<br><br>
 
 <div align="center">
-  <i>"Excellence in every pixel. Precision in every line."</i>
-  <br><br>
-  <a href="mailto:your-professional-email@example.com">Contact for Inquiries</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
