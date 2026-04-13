@@ -1,69 +1,70 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=AXIOM+DIGITAL;WEB+ARCHITECTURE;SOCIAL+SCALING;CINEMATIC+PRODUCTION" alt="Axiom Digital Typing">
   
-  # 𝗔 𝗫 𝗜 𝗢 𝗠 &nbsp; 𝗗 𝗜 𝗚 𝗜 𝗧 𝗔 𝗟
-  **P R E M I E R &nbsp; G R O W T H &nbsp; & &nbsp; D E V E L O P M E N T &nbsp; S T U D I O**
-  
-  <br>
-
-  [![Website](https://img.shields.io/badge/Official_Website-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://axiomwebpage.netlify.app)
-  [![Phone](https://img.shields.io/badge/Direct_Line-(+91)_8686_363_671-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918686363671)
-  [![Instagram](https://img.shields.io/badge/Portfolio-@Axiom__Digital-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/axiom.digital01)
+  <p align="center" style="font-size: 16px; color: #888888;">
+    <b>Elite Web Engineering • High-Retention Video • Viral Social Architecture</b>
+  </p>
 
   <br>
-  
-  > *"We don't just build websites. We engineer high-conversion digital ecosystems and direct cinematic brand experiences."*
-  
+
+  <a href="https://axiomwebpage.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Official_Website-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Website"/>
+  </a>
+  <a href="tel:+918686363671">
+    <img src="https://img.shields.io/badge/Direct_Line-(+91)_8686_363_671-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=000000" alt="Phone"/>
+  </a>
+  <a href="https://instagram.com/axiom.digital01" target="_blank">
+    <img src="https://img.shields.io/badge/Studio_Portfolio-@axiom.digital01-111111?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=000000" alt="Instagram"/>
+  </a>
 </div>
 
 <br><br>
 
-### ✦ The Axiom Standard
-We are an elite, multi-disciplinary development and content studio. Operating under strict confidentiality for our enterprise and hospitality clients, our primary deployments are secured in private environments. We combine uncompromising web architecture with broadcast-quality video production to scale modern brands.
-
-<br>
-
-### ✦ Studio Divisions
-
-<table>
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Advanced Web Architecture</h3>
-      We build bespoke, fluid web environments from the ground up. No bloated site-builders—just pure, optimized code designed for sub-second rendering and absolute reliability.
-      <br><br>
-      <ul>
-        <li><b>Bespoke Interfaces:</b> Tailored web apps for any industry.</li>
-        <li><b>Conversion Engineering:</b> UI/UX designed to drive action.</li>
-        <li><b>Performance SEO:</b> Lightning-fast, scalable infrastructure.</li>
-      </ul>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #333333; border-radius: 10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3206/3206015.png" width="50" style="filter: invert(1); margin-bottom: 15px;">
+      <h3 style="margin:0;">Web Architecture</h3>
+      <p style="color: #AAAAAA; font-size: 14px;">Bespoke, high-conversion interfaces. Sub-second load times and rigorous SEO structuring. We engineer sites that don't just exist—they dominate.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎬 Cinematic Post-Production</h3>
-      A website is only as strong as its media. Our dedicated video division handles high-fidelity editing, motion graphics, and social reel creation to dominate digital algorithms.
-      <br><br>
-      <ul>
-        <li><b>High-Retention Reels:</b> Short-form content engineered to scale.</li>
-        <li><b>Brand Storytelling:</b> Professional-grade color grading and pacing.</li>
-        <li><b>Visual Identity:</b> Seamless integration of video into web platforms.</li>
-      </ul>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #333333; border-radius: 10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/10006/10006001.png" width="50" style="filter: invert(1); margin-bottom: 15px;">
+      <h3 style="margin:0;">Social Media & Brand Scaling</h3>
+      <p style="color: #AAAAAA; font-size: 14px;">End-to-end digital brand management. We design data-driven social architectures that capture attention, build authority, and drive direct traffic.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #333333; border-radius: 10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3172/3172559.png" width="50" style="filter: invert(1); margin-bottom: 15px;">
+      <h3 style="margin:0;">Cinematic Video Editing</h3>
+      <p style="color: #AAAAAA; font-size: 14px;">Broadcast-quality post-production. From high-retention short-form reels to cinematic brand storytelling, engineered specifically for modern algorithms.</p>
+    </td>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #333333; border-radius: 10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920114.png" width="50" style="filter: invert(1); margin-bottom: 15px;">
+      <h3 style="margin:0;">Confidential Enterprise</h3>
+      <p style="color: #AAAAAA; font-size: 14px;">Operating strictly under NDAs. Your code, your data, and your media are maintained in isolated, highly secure private environments.</p>
     </td>
   </tr>
 </table>
 
-<br>
-
-### ✦ Production Stack
-
-Our infrastructure demands the best tools available. We utilize a highly refined, dependency-minimized stack for web, and professional post-production pipelines for media.
-
-**Web Engineering & Design**
-<code>Semantic HTML5</code> • <code>Advanced CSS3</code> • <code>Modern JavaScript (ES6+)</code> • <code>Figma</code>
-
-**Cinematic & Content Pipeline**
-<code>DaVinci Resolve</code> • <code>CapCut Pro</code> • <code>Advanced Audio Mastering</code>
-
 <br><br>
+
+<h3 align="center">✦ The Production Engine ✦</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-302E3B?style=flat-square&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut_Pro-000000?style=flat-square&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</div>
+
+<br>
 
 <div align="center">
   <p><i>Strictly Confidential. Best or Nothing.</i></p>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" height="3">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="300" height="3">
 </div>
